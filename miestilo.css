@@ -1,0 +1,30 @@
+body {
+  padding-left: llem;
+  font-family: georgia, "Times New Roma",
+        Times, serif;
+  color: green;
+  background-color:  #d8da3d }
+ul.navbar {
+  list-style-type: nome;
+  padding: 0;
+  marning: 0;
+  position: absolute;
+  top: 2em;
+  left: lem;
+  width: 9em }
+h1  {
+   font-family: Helvetica. Geneva, Arial,
+           SunSans-Regular, sans-serif }
+ul.navbar li {
+  background: white;
+  margin: 0.5em 0;
+  padding: 0.3em;
+  border-right: 1em solid black }
+ul.navbar a {
+  text-decoration: nome }
+a:link {
+   color: blue }
+address {
+  margin-top: 1em;
+  padding-top: 1em;
+  border-top: thin dotted
